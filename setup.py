@@ -45,7 +45,7 @@ else:
 
 setup(
     name='django-celery-email',
-    version=distmeta.__version__ + '-custom1',
+    version=distmeta.__version__ + '-1',
     description=distmeta.__doc__,
     author=distmeta.__author__,
     author_email=distmeta.__contact__,
